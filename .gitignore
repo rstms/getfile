@@ -1,0 +1,7 @@
+getfile
+getfile.exe
+notes
+cruft
+*.core
+*.log
+*postactivate
